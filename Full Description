@@ -1,0 +1,8 @@
+# Maze
+Basic Python Maze Game 
+Pembuat : Vin
+Bahasa pemrograman : Python
+Library : pygame
+File : Background = Latar belakang, Cyborg = Musuh 1, Sawit = Musuh 2, Hero = Player, Treasure = Objek untuk kalah 
+Rincian : Game labirin ini adalah game yang dimana kita memainkan Player atau Hero untuk keluar dari labirin sambil di hadang musuh-musuh. Dan terakhir player bisa menembus dinding.
+Aturan : Jika menyentuh treasure maka akan kalah, Jika menyentuh musuh maka akan menang
